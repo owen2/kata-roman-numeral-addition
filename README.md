@@ -4,6 +4,8 @@ A TDD exercise
 ## Goal
 Use test driven development to write a library that can add roman numerals. Practice writing tests first, and using your test failures to guide the code you write. For the sake of this exercise, do not convert the numerals to arabic numbers.
 
+A dotnet standard library and a test project have been started for you, including your first failing test!
+
 ## Description
 The Romans wrote their numbers using letters; specifically the letters "I, V, X, L, C, D, and M." There were certain rules that the numerals followed which should be observed.
 
