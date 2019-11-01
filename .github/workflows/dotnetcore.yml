@@ -17,3 +17,4 @@ jobs:
       run: dotnet build --configuration Release
     - name: Tests with dotnet
       run: dotnet test --configuration Release
+
